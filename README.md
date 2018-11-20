@@ -1,7 +1,5 @@
 # FD2D-forward-modelling-based-on-numba
-This code is just an private execise extension from Prof. Igel's book 'Computational seismology' and its supplementary material
-of course I wish it could solve some real problem for which I added numba module for accelerate it. I added Gaussian tapering function 
-from the Prof. Fichtner's book 'Full seismic waveform modelling and inversion'. for use, you could feel free 
+This code is just an private execise extension from Prof. Igel's book 'Computational seismology' and its supplementary material and Prof. Fichtner's book 'Full seismic waveform modelling and inversion'. for use, you could feel free 
 
 installation
 This simple code is in jupyter notebook, so you need to install anaconda and creat conda env then use it from your side
